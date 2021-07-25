@@ -1,7 +1,7 @@
 package com.alan.springbootmybatis.entity;
 
     import java.io.Serializable;
-
+//local_master change, local_master to remote_dev-alan
 /**
 * <p>
     * 
