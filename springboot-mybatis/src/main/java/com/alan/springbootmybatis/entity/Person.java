@@ -3,6 +3,7 @@ package com.alan.springbootmybatis.entity;
     import java.io.Serializable;
 //local_master change, local_master to remote_dev-alan
 //local_master to remote_dev-alan,second commit,test
+//local_master to remote_dev-alan,third commit, 测试改动一个文件，提交全部
 /**
 * <p>
     * 
