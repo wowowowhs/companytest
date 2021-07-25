@@ -43,7 +43,7 @@ public class PersonController {
     @RequestMapping("/getPersonById")
     public CommonResult getPersonById(Integer id){
         log.info("查询用户id为"+id+"的信息");
-
+        //git commit test
         int a = 3;
         int b = 0;
 
